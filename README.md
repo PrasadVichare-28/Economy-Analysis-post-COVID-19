@@ -24,11 +24,6 @@ The analysis utilizes data from reputable sources, including:
 3. **Comparative Analysis**: Compared economic indicators across different countries and sectors.
 
 
-## Findings
-
-- **Global GDP Impact**: The pandemic led to a significant contraction in global GDP in 2020, with varying recovery rates observed in subsequent years.
-- **Sectoral Disparities**: Sectors such as tourism and hospitality experienced prolonged recovery periods, while technology and e-commerce sectors showed resilience and growth.
-- **Policy Effectiveness**: Countries that implemented timely fiscal stimulus and effective public health measures tended to recover more rapidly.
 
 ## Visualizations
 
@@ -36,50 +31,19 @@ The project includes various visualizations to illustrate the economic impact an
 
 - **GDP Growth Rates**: Line charts depicting GDP changes over time.
 - **Unemployment Trends**: Bar graphs showing unemployment rate fluctuations.
-- **Sectoral Analysis**: Heatmaps highlighting sector-specific impacts.
 
 ## Technologies Used
 
 - **Programming Languages**: Python
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn
-- **Data Sources**: APIs and datasets from World Bank, IMF, and other statistical offices.
 
-## How to Run the Analysis
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/PrasadVichare-28/Economy-Analysis-post-COVID-19.git
-   ```
-2. **Navigate to the Project Directory**:
-   ```bash
-   cd Economy-Analysis-post-COVID-19
-   ```
-3. **Install Dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. **Run the Analysis Scripts**:
-   ```bash
-   python analysis_script.py
-   ```
 
-## Future Work
 
-- **Real-Time Data Integration**: Incorporate real-time economic data for ongoing analysis.
-- **Predictive Modeling**: Develop models to forecast future economic trends post-COVID-19.
-- **Policy Recommendations**: Provide actionable insights for policymakers based on the analysis.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request with your proposed changes.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Contact
 
 - **Author**: Prasad Vichare
-- **Email**: [pvich@uic.edu](mailto:pvich@uic.edu)
 - **LinkedIn**: [Prasad Vichare](https://www.linkedin.com/in/prasad-vichare)
 
